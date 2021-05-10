@@ -152,6 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 381edfd8e3a923745a4cb1a1a256e7f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prefabBlume: {fileID: 4866673437921968379, guid: ebbebebfd6ccc114d9e40b5689cb4e6c, type: 3}
+  parentObj: {fileID: 4712979743316331834, guid: 5c036f217c1038b48bf63fc510b98be5, type: 3}
 --- !u!4 &420701109
 Transform:
   m_ObjectHideFlags: 0
